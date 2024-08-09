@@ -1,0 +1,36 @@
+.enlacesblancos{
+    text-align:center; width:100%; background-color:#3b3b3b; color:white; border-top:1px solid #C6C6C6; border-bottom:1px solid #c6c6c6; font-size:110%;
+    
+}
+#pokemonID{
+  border: white solid;
+  width: 35px;
+}
+#pokemonimg{
+    border: white solid;
+}
+#pokemonname{
+    border: white solid;
+    width: 30%;
+}
+#pokemontype{
+    border: white solid;
+    width: 20%;
+}
+
+.xd{
+    color: black;
+    border-bottom: white solid;
+}
+p{
+    color: white;
+    border-bottom: black solid;
+    border-top: black solid;
+}
+img{
+   
+   width: 300px;
+}
+
+
+
